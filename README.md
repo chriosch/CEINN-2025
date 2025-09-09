@@ -56,7 +56,7 @@ El notebook está estructurado para replicar fielmente los análisis del artícu
 
 ## 🚀 Cómo Usar
 
-1.  Haz clic en el enlace del notebook de Google Colab: **[Inserta aquí el enlace a tu libreta de Colab]**.
+1.  Haz clic en el enlace del notebook de Google Colab: **https://github.com/chriosch/CEINN-2025/blob/main/analisis_encuesta.ipynb**.
 2.  Haz una copia del notebook en tu propia cuenta de Google Drive (Archivo > Guardar una copia en Drive).
 3.  Si deseas replicar el estudio con tus propios datos, reemplaza el archivo de datos de entrada (`survey_data.csv`) y ajusta los nombres de las columnas en el código según sea necesario.
 4.  Ejecuta todas las celdas para regenerar los análisis y gráficos.
