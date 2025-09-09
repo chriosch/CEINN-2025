@@ -67,7 +67,7 @@ El notebook está estructurado para replicar fielmente los análisis del artícu
 
 Este notebook **genera directamente las tablas y gráficas** que aparecen en la sección "Desarrollo" del artículo. Todos los porcentajes y cifras citados en el texto (una vez corregidos) se derivan de los cálculos realizados aquí.
 
-**Artículo:** [Enlace al PDF del artículo, si está disponible, o mencionar "Ver archivo adjunto"]
+**Artículo:** La Brecha Temporal de la Orientación Docente en el Uso de la IA: Un Análisis Empírico desde la Percepción Estudiantil y su Impacto en la Formación Ética de Futuros Ingenieros en Software.
 
 ---
 
