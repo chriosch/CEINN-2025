@@ -1,7 +1,3 @@
-Claro, aquí tienes un texto profesional y completo para el archivo `README.md` de tu repositorio de GitHub, diseñado para presentar tu libreta de Colab y contextualizar su relación con el artículo de investigación.
-
----
-
 # 📊 Análisis Empírico: La Brecha Temporal de la Orientación Docente en el Uso de la IA
 
 **Repositorio de Soporte para el Artículo Científico:**
@@ -96,7 +92,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ---
 
 ¡Gracias por tu interés en nuestra investigación! Esperamos que este recurso sea útil para la comunidad académica y educativa.
-
---- 
-
-**Nota para ti (el autor):** Recuerda reemplazar `[Inserta aquí el enlace a tu libreta de Colab]` y `[Enlace al PDF del artículo, si está disponible, o mencionar "Ver archivo adjunto"]` con los enlaces reales antes de publicar el README en GitHub.
